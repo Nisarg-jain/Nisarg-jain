@@ -16,7 +16,7 @@ I am a Master of Computer Applications (MCA) student specializing in **Artificia
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), HTML5, CSS3 |
+| **Languages** | Java, Python, JavaScript (ES6+), HTML5, CSS3 |
 | **Frameworks & UI** | React.js, Tailwind CSS, React Router |
 | **Tools & Platforms** | Git, GitHub, VS Code, Vite, Vercel |
 
